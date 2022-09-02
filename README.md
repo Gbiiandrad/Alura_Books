@@ -1,16 +1,11 @@
 # Alura_books
 Projeto realizado durante o curso HTML e CSS: responsividade com mobile-first da Alura.
 
-<img align="center" src="https://media.discordapp.net/attachments/754409297089134615/1015048231140466759/Captura_de_tela_2022-09-01_204009.png?width=871&height=406">
 
-
-
-
-
-
-
-## Projeto:
+### Projeto:
 [Link do projeto vercel](https://alura-books-dun.vercel.app/)
+
+<img align="center" src="https://media.discordapp.net/attachments/754409297089134615/1015048231140466759/Captura_de_tela_2022-09-01_204009.png?width=871&height=406">
 
 
 ## Guia de estilos

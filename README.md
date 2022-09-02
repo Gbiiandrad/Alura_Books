@@ -35,7 +35,7 @@ Toda a estilização que será usada no projeto dentro do figma.
   
   laranja: `#EB9B00`
   
-  azul_degrade:  `linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%)`
+  azul_degrade: `linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%)`
   
   fonte_principal: `Poppins`
   
@@ -45,7 +45,7 @@ Toda a estilização que será usada no projeto dentro do figma.
   
   preto: `#000000`
   
-  cinza:`#474646`
+  cinza: `#474646`
   
   cinza_claro: `#858585`
 

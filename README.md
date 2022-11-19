@@ -11,6 +11,8 @@ Projeto realizado durante o curso HTML e CSS: responsividade com mobile-first da
 
 <img align="center" src="https://media.discordapp.net/attachments/754409297089134615/1015048231140466759/Captura_de_tela_2022-09-01_204009.png?width=871&height=406">
 
+<img align="center" src="https://github.com/Gbiiandrad/MeuRepositorio/blob/main/gifs/unknown_2022.11.19-03.27_clip_1.gif">
+
 
 ## Guia de estilos
 
